@@ -1,11 +1,11 @@
-#☕ Café Store Website
+## ☕ Café Store Website
 A fully responsive and modern café store website built using HTML, CSS, and JavaScript. This project showcases a clean design, interactive elements, and mobile-friendly features—perfect for café businesses looking to establish an online presence.
 
 🚀 Features
- ## Responsive design for all devices
- ## Smooth scrolling navigation
- ## Interactive menu section
- ## Image gallery
+ # Responsive design for all devices
+ # Smooth scrolling navigation
+ # Interactive menu section
+ # Image gallery
 
 📂 Folder Structure
 
