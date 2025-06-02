@@ -1,4 +1,4 @@
-## ☕ Café Store Website
+# ☕ Café Store Website
 A fully responsive and modern café store website built using HTML, CSS, and JavaScript. This project showcases a clean design, interactive elements, and mobile-friendly features—perfect for café businesses looking to establish an online presence.
 
 🚀 Features
@@ -21,7 +21,7 @@ A fully responsive and modern café store website built using HTML, CSS, and Jav
 
 💡 How to Use
 Clone this repository
- 1. git clone https://github.com/your-username/cafe-store.git
+ 1. git clone https://github.com/Biswaranjan-cod/Cafe-Store
  2. Open index.html in your browser
 
  
